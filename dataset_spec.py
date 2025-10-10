@@ -4,8 +4,8 @@ import librosa.display
 import matplotlib.pyplot as plt
 import numpy as np
 
-DATA_DIR = "./data_audio"               
-OUT_DIR = "./data_spectrograms"
+DATA_DIR = "./data/audio"               
+OUT_DIR = "./data/spectrograms"
 SAMPLE_RATE = 16000
 DURATION = 3.0
 N_MELS = 128

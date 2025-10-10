@@ -3,11 +3,11 @@ import shutil
 import pandas as pd
 
 # Input paths
-AUDIO_DIR = r".\data_raw\audio_and_txt_files"
-CSV_PATH = r".\data_raw\patient_diagnosis.csv"
+AUDIO_DIR = r".\data\raw\audio_and_txt_files"
+CSV_PATH = r".\data\raw\patient_diagnosis.csv"
 
 # Output path
-OUT_DIR = r".\data_audio"
+OUT_DIR = r".\data\audio"
 
 def main():
     # Read CSV
