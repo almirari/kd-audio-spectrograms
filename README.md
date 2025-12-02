@@ -75,7 +75,7 @@ Testing was conducted using the **ICBHI 2017** and **Mendeley Pulmonary Sound** 
 
 ## Authors
 
-- Almira Raisa Izzatina - Informatics Engineering, ITS, Surabaya
+- Almira Raisa Izzatina — Informatics Engineering, ITS, Surabaya
 - Ziyan Nadia Putri — Medical Technology, ITS, Surabaya
 - Giovrey Ernesto Putra — Medical Technology, ITS, Surabaya
 - Putri Alief Siswanto — Medical Technology, ITS, Surabaya
